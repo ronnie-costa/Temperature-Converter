@@ -8,7 +8,7 @@ def celsius_fahrenheit():
     print ('CELSIUS - FAHRENHEIT')
     celsius = float(input("ENTER TEMPERATURE: "))
     fahrenheit = ((9 * celsius) / 5) + 32
-    print(f"{celsius} ºCELSIUS = {fahrenheit:.2f} ºFAHRENHEIT".)
+    print(f"{celsius} ºCELSIUS = {fahrenheit:.2f} ºFAHRENHEIT")
 
 def celsius_reaumur():
     print ('CELSIUS - RÉAUMUR')
